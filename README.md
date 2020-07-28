@@ -15,7 +15,7 @@
 ## 目录介绍
 * models——存放各个demo的模型
 * pytorch2onnx2tensorrt_cnn——入门级tensorrt代码
-    * [pytorch_onnx_trt.ipynb](pytorch2onnx2tensorrt_cnn/[pytorch_onnx_trt.ipynb)
+    * [pytorch_onnx_trt.ipynb](pytorch2onnx2tensorrt_cnn/pytorch_onnx_trt.ipynb)
 
 ## Reference
 
