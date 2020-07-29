@@ -7,5 +7,5 @@
 * pytorch2onnx2tensorrt_cnn——入门级tensorrt代码
     * [pytorch_onnx_trt.ipynb](torch2onnx2tensorrt_cnn/pytorch_onnx_trt.ipynb)
 * torch2onnx2tensorrt_3methods——使用TensorRT的三种方式
-    
+* NVIDIA-TensorRT-Tutorial——英伟达入门教程    
 
